@@ -309,9 +309,9 @@ select {
   left: 100%;
   top: 0;
   background: #fff;
-  transition: all 0.3s ease-in;
-  -webkit-transition: all 0.3s ease-in;
-  overflow:hidden;
+  transition: all 0.2s linear;
+  -webkit-transition: all 0.2s linear;
+  overflow: hidden;
 }
 .hide {
   left: -100%;
